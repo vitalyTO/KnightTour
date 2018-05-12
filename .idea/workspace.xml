@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7c1cb5b-3e4a-496e-9345-6d8522acb2b4" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/KnightMove.java" afterPath="$PROJECT_DIR$/src/KnightMove.java" />
+      <change beforePath="$PROJECT_DIR$/src/MoveSequence.java" afterPath="$PROJECT_DIR$/src/MoveSequence.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +19,8 @@
       <file leaf-file-name="KnightMove.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/KnightMove.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+            <state relative-caret-position="960">
+              <caret line="60" column="26" lean-forward="true" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#895#896#0" expanded="true" />
@@ -31,13 +33,14 @@
       <file leaf-file-name="MoveSequence.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MoveSequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="e#2230#2231#0" expanded="true" />
-                <element signature="e#2264#2265#0" expanded="true" />
-                <element signature="e#3480#3481#0" expanded="true" />
-                <element signature="e#3598#3599#0" expanded="true" />
+                <element signature="e#0#4464#0" expanded="true" />
+                <element signature="e#2206#2207#0" expanded="true" />
+                <element signature="e#2240#2241#0" expanded="true" />
+                <element signature="e#3456#3457#0" expanded="true" />
+                <element signature="e#3574#3575#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -89,8 +92,8 @@
         <option value="$PROJECT_DIR$/src/Sequence.java" />
         <option value="$PROJECT_DIR$/src/ListInterface.java" />
         <option value="$PROJECT_DIR$/src/Field.java" />
-        <option value="$PROJECT_DIR$/src/MoveSequence.java" />
         <option value="$PROJECT_DIR$/../Other_Java/comStrVersion.java" />
+        <option value="$PROJECT_DIR$/src/MoveSequence.java" />
         <option value="$PROJECT_DIR$/src/KnightMove.java" />
       </list>
     </option>
@@ -130,6 +133,11 @@
             <path>
               <item name="KnightTour" type="b2602c69:ProjectViewProjectNode" />
               <item name="KnightTour" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KnightTour" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KnightTour" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -304,12 +312,12 @@
       <workItem from="1525723867036" duration="1788000" />
       <workItem from="1526064940786" duration="304000" />
       <workItem from="1526113750225" duration="51000" />
-      <workItem from="1526113905253" duration="1297000" />
+      <workItem from="1526113905253" duration="1606000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14183000" />
+    <option name="totallyTimeSpent" value="14492000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -391,10 +399,11 @@
         <state relative-caret-position="105">
           <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
           <folding>
-            <element signature="e#2230#2231#0" expanded="true" />
-            <element signature="e#2264#2265#0" expanded="true" />
-            <element signature="e#3480#3481#0" expanded="true" />
-            <element signature="e#3598#3599#0" expanded="true" />
+            <element signature="e#0#4464#0" expanded="true" />
+            <element signature="e#2206#2207#0" expanded="true" />
+            <element signature="e#2240#2241#0" expanded="true" />
+            <element signature="e#3456#3457#0" expanded="true" />
+            <element signature="e#3574#3575#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -432,10 +441,11 @@
         <state relative-caret-position="105">
           <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
           <folding>
-            <element signature="e#2230#2231#0" expanded="true" />
-            <element signature="e#2264#2265#0" expanded="true" />
-            <element signature="e#3480#3481#0" expanded="true" />
-            <element signature="e#3598#3599#0" expanded="true" />
+            <element signature="e#0#4464#0" expanded="true" />
+            <element signature="e#2206#2207#0" expanded="true" />
+            <element signature="e#2240#2241#0" expanded="true" />
+            <element signature="e#3456#3457#0" expanded="true" />
+            <element signature="e#3574#3575#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -485,10 +495,11 @@
         <state relative-caret-position="105">
           <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
           <folding>
-            <element signature="e#2230#2231#0" expanded="true" />
-            <element signature="e#2264#2265#0" expanded="true" />
-            <element signature="e#3480#3481#0" expanded="true" />
-            <element signature="e#3598#3599#0" expanded="true" />
+            <element signature="e#0#4464#0" expanded="true" />
+            <element signature="e#2206#2207#0" expanded="true" />
+            <element signature="e#2240#2241#0" expanded="true" />
+            <element signature="e#3456#3457#0" expanded="true" />
+            <element signature="e#3574#3575#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -526,10 +537,11 @@
         <state relative-caret-position="84">
           <caret line="7" column="68" lean-forward="true" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
           <folding>
-            <element signature="e#2230#2231#0" expanded="true" />
-            <element signature="e#2264#2265#0" expanded="true" />
-            <element signature="e#3480#3481#0" expanded="true" />
-            <element signature="e#3598#3599#0" expanded="true" />
+            <element signature="e#0#4464#0" expanded="true" />
+            <element signature="e#2206#2207#0" expanded="true" />
+            <element signature="e#2240#2241#0" expanded="true" />
+            <element signature="e#3456#3457#0" expanded="true" />
+            <element signature="e#3574#3575#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -582,10 +594,11 @@
         <state relative-caret-position="2314">
           <caret line="92" column="37" lean-forward="true" selection-start-line="92" selection-start-column="37" selection-end-line="92" selection-end-column="37" />
           <folding>
-            <element signature="e#2230#2231#0" expanded="true" />
-            <element signature="e#2264#2265#0" expanded="true" />
-            <element signature="e#3480#3481#0" expanded="true" />
-            <element signature="e#3598#3599#0" expanded="true" />
+            <element signature="e#0#4464#0" expanded="true" />
+            <element signature="e#2206#2207#0" expanded="true" />
+            <element signature="e#2240#2241#0" expanded="true" />
+            <element signature="e#3456#3457#0" expanded="true" />
+            <element signature="e#3574#3575#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -607,10 +620,11 @@
         <state relative-caret-position="209">
           <caret line="14" column="74" lean-forward="false" selection-start-line="14" selection-start-column="74" selection-end-line="14" selection-end-column="74" />
           <folding>
-            <element signature="e#2230#2231#0" expanded="true" />
-            <element signature="e#2264#2265#0" expanded="true" />
-            <element signature="e#3480#3481#0" expanded="true" />
-            <element signature="e#3598#3599#0" expanded="true" />
+            <element signature="e#0#4464#0" expanded="true" />
+            <element signature="e#2206#2207#0" expanded="true" />
+            <element signature="e#2240#2241#0" expanded="true" />
+            <element signature="e#3456#3457#0" expanded="true" />
+            <element signature="e#3574#3575#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -654,23 +668,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Other_Java/comStrVersion.java" />
     <entry file="file://$PROJECT_DIR$/src/MoveSequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#2230#2231#0" expanded="true" />
-            <element signature="e#2264#2265#0" expanded="true" />
-            <element signature="e#3480#3481#0" expanded="true" />
-            <element signature="e#3598#3599#0" expanded="true" />
+            <element signature="e#0#4464#0" expanded="true" />
+            <element signature="e#2206#2207#0" expanded="true" />
+            <element signature="e#2240#2241#0" expanded="true" />
+            <element signature="e#3456#3457#0" expanded="true" />
+            <element signature="e#3574#3575#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/KnightMove.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        <state relative-caret-position="960">
+          <caret line="60" column="26" lean-forward="true" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#895#896#0" expanded="true" />
@@ -679,7 +695,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Other_Java/comStrVersion.java" />
   </component>
   <component name="masterDetails">
     <states>

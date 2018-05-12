@@ -6,14 +6,14 @@ Implements List Interface to hold Type -> FIELD
 public class MoveSequence<T> implements ListInterface<T> {
     protected int numElements; //num of elements currently in the list
     protected LLNode<T> currentPos; //current position for iteration
-    protected int total = 16;
+    //protected int total = 16;
 
     //below is set by the find method
     protected boolean found; //true if elem is in the list
     protected LLNode<T> location; //node containing the elements if it was found
     protected LLNode<T> previous; //node before the Location Node(useful to know when deleting Location Node->resetting the links)
 
-    protected LLNode<T> list; //the element on the very "left" of the list
+    protected LLNode<T> list; //the last element of the list
 
     public MoveSequence(){ //initializer
         numElements=0;
@@ -21,9 +21,7 @@ public class MoveSequence<T> implements ListInterface<T> {
         currentPos = null; //obvious enough^
     }
 
-    public boolean isFull(){
-        return size() == total;
-    }
+    //public boolean isFull(){return size() == total;}
 
     public void add(T element) {
         LLNode<T> nodeToAdd = new LLNode<>(element); //creating a new node with the info provided

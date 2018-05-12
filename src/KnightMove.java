@@ -53,12 +53,6 @@ public class KnightMove {
         else return nextField(lastField,check+1);
     }
 
-    private void setCustom(int x, int y){
-        Field f = new Field(x,y);
-        moveSequence.add(f);
-        lastField = f;
-    }
-
     private void makeMove() {
         Field moveTo = nextField(lastField,0);
         moveSequence.add(moveTo);
